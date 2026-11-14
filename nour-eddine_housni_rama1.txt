@@ -1,1 +1,2 @@
 premira linea del archivo 1
+linea diferente desde master
