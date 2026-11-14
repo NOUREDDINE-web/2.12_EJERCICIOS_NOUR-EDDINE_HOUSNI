@@ -1,2 +1,6 @@
 premira linea del archivo 1
+<<<<<<< HEAD
 linea diferente desde master
+=======
+tercera linea desde la rama
+>>>>>>> nour-eddine_housni_rama
